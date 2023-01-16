@@ -1,0 +1,48 @@
+body{
+    background-color:rgb(124, 152, 169);
+}
+table {
+    /* border-spacing:15px; */
+    background-color: rgb(25, 89, 208);
+    border: 1px solid rgb(3, 12, 94);
+    /* padding-inline-start: center; */
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+
+input[type="button"] {
+    width: 100%;
+    padding: 20px 40px;
+    /* cursor: pointer; */
+    background-color: rgb(183, 193, 214);
+    color: rgb(22, 23, 23);
+    font-size: 24px;
+    font-weight: bold;
+    border: 1px solid rgb(3, 12, 94);
+    border-radius: 25px;
+}
+
+input[type="text"] {
+    padding: 20px 20px;
+    
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 25px;
+    border: 1px solid rgb(3, 12, 94);
+}
+h1{
+    text-align:center;
+    color: black;
+}
+.footer {
+    margin: 10%;
+    width: 78%;
+    position: fixed;
+    text-align: end;
+  }
+  .footer h1 {
+    font-size: 20px;
+    font-weight: 400;
+  }
